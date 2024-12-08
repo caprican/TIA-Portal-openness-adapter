@@ -1,0 +1,103 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V18", "V18", "{690402D9-37B1-4DE6-BB79-D363EF9220E8}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\Openness\V18\Siemens.Engineering.dll = Dependencies\Openness\V18\Siemens.Engineering.dll
+		Dependencies\Openness\V18\Siemens.Engineering.Hmi.dll = Dependencies\Openness\V18\Siemens.Engineering.Hmi.dll
+		Dependencies\Openness\V18\Siemens.Engineering.Hmi.xml = Dependencies\Openness\V18\Siemens.Engineering.Hmi.xml
+		Dependencies\Openness\V18\Siemens.Engineering.V18_0.dll = Dependencies\Openness\V18\Siemens.Engineering.V18_0.dll
+		Dependencies\Openness\V18\Siemens.Engineering.V18_0.xml = Dependencies\Openness\V18\Siemens.Engineering.V18_0.xml
+		Dependencies\Openness\V18\Siemens.Engineering.xml = Dependencies\Openness\V18\Siemens.Engineering.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Openness", "Openness", "{8EDF3277-61DE-40B2-A21C-853518901309}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{DDE793CA-C10F-4B6B-8739-832D443F1253}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V14 SP1", "V14 SP1", "{26893E1F-620B-4F84-A1B8-5E15A95B3955}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\Openness\V14 SP1\Siemens.Engineering.dll = Dependencies\Openness\V14 SP1\Siemens.Engineering.dll
+		Dependencies\Openness\V14 SP1\Siemens.Engineering.Hmi.dll = Dependencies\Openness\V14 SP1\Siemens.Engineering.Hmi.dll
+		Dependencies\Openness\V14 SP1\Siemens.Engineering.Hmi.xml = Dependencies\Openness\V14 SP1\Siemens.Engineering.Hmi.xml
+		Dependencies\Openness\V14 SP1\Siemens.Engineering.xml = Dependencies\Openness\V14 SP1\Siemens.Engineering.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V15", "V15", "{73F8DAA6-1F55-47D3-A0AE-3E747215435A}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\Openness\V15\Siemens.Engineering.Hmi.dll = Dependencies\Openness\V15\Siemens.Engineering.Hmi.dll
+		Dependencies\Openness\V15\Siemens.Engineering.Hmi.xml = Dependencies\Openness\V15\Siemens.Engineering.Hmi.xml
+		Dependencies\Openness\V15\Siemens.Engineering.V15_0.dll = Dependencies\Openness\V15\Siemens.Engineering.V15_0.dll
+		Dependencies\Openness\V15\Siemens.Engineering.V15_0.xml = Dependencies\Openness\V15\Siemens.Engineering.V15_0.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V16", "V16", "{38012F78-7EA6-4ABC-9D43-BC86430CF449}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\Openness\V16\Siemens.Engineering.Hmi.dll = Dependencies\Openness\V16\Siemens.Engineering.Hmi.dll
+		Dependencies\Openness\V16\Siemens.Engineering.Hmi.xml = Dependencies\Openness\V16\Siemens.Engineering.Hmi.xml
+		Dependencies\Openness\V16\Siemens.Engineering.V16_0.dll = Dependencies\Openness\V16\Siemens.Engineering.V16_0.dll
+		Dependencies\Openness\V16\Siemens.Engineering.V16_0.xml = Dependencies\Openness\V16\Siemens.Engineering.V16_0.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V17", "V17", "{E95D725C-13D4-416B-80E5-A3AE45BB9A94}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\Openness\V17\Siemens.Engineering.dll = Dependencies\Openness\V17\Siemens.Engineering.dll
+		Dependencies\Openness\V17\Siemens.Engineering.Hmi.dll = Dependencies\Openness\V17\Siemens.Engineering.Hmi.dll
+		Dependencies\Openness\V17\Siemens.Engineering.Hmi.xml = Dependencies\Openness\V17\Siemens.Engineering.Hmi.xml
+		Dependencies\Openness\V17\Siemens.Engineering.V17_0.dll = Dependencies\Openness\V17\Siemens.Engineering.V17_0.dll
+		Dependencies\Openness\V17\Siemens.Engineering.V17_0.xml = Dependencies\Openness\V17\Siemens.Engineering.V17_0.xml
+		Dependencies\Openness\V17\Siemens.Engineering.xml = Dependencies\Openness\V17\Siemens.Engineering.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V17 without options", "V17 without options", "{396E1A9D-D873-418E-9C77-BDBAA376D934}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\Openness\V17 without options\Siemens.Engineering.dll = Dependencies\Openness\V17 without options\Siemens.Engineering.dll
+		Dependencies\Openness\V17 without options\Siemens.Engineering.Hmi.dll = Dependencies\Openness\V17 without options\Siemens.Engineering.Hmi.dll
+		Dependencies\Openness\V17 without options\Siemens.Engineering.Hmi.xml = Dependencies\Openness\V17 without options\Siemens.Engineering.Hmi.xml
+		Dependencies\Openness\V17 without options\Siemens.Engineering.V17_0.dll = Dependencies\Openness\V17 without options\Siemens.Engineering.V17_0.dll
+		Dependencies\Openness\V17 without options\Siemens.Engineering.V17_0.xml = Dependencies\Openness\V17 without options\Siemens.Engineering.V17_0.xml
+		Dependencies\Openness\V17 without options\Siemens.Engineering.xml = Dependencies\Openness\V17 without options\Siemens.Engineering.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "V19", "V19", "{780D674F-7289-4A04-87CB-B5DB30A3218C}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\Openness\V19\Siemens.Engineering.dll = Dependencies\Openness\V19\Siemens.Engineering.dll
+		Dependencies\Openness\V19\Siemens.Engineering.Hmi.dll = Dependencies\Openness\V19\Siemens.Engineering.Hmi.dll
+		Dependencies\Openness\V19\Siemens.Engineering.Hmi.xml = Dependencies\Openness\V19\Siemens.Engineering.Hmi.xml
+		Dependencies\Openness\V19\Siemens.Engineering.V19_0.dll = Dependencies\Openness\V19\Siemens.Engineering.V19_0.dll
+		Dependencies\Openness\V19\Siemens.Engineering.V19_0.xml = Dependencies\Openness\V19\Siemens.Engineering.V19_0.xml
+		Dependencies\Openness\V19\Siemens.Engineering.xml = Dependencies\Openness\V19\Siemens.Engineering.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIAOpennessAdapter", "TIAOpennessAdapter\TIAOpennessAdapter.csproj", "{27B96979-8821-4F99-A6CB-DC5DF970E07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B96979-8821-4F99-A6CB-DC5DF970E07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B96979-8821-4F99-A6CB-DC5DF970E07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B96979-8821-4F99-A6CB-DC5DF970E07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B96979-8821-4F99-A6CB-DC5DF970E07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{690402D9-37B1-4DE6-BB79-D363EF9220E8} = {8EDF3277-61DE-40B2-A21C-853518901309}
+		{8EDF3277-61DE-40B2-A21C-853518901309} = {DDE793CA-C10F-4B6B-8739-832D443F1253}
+		{26893E1F-620B-4F84-A1B8-5E15A95B3955} = {8EDF3277-61DE-40B2-A21C-853518901309}
+		{73F8DAA6-1F55-47D3-A0AE-3E747215435A} = {8EDF3277-61DE-40B2-A21C-853518901309}
+		{38012F78-7EA6-4ABC-9D43-BC86430CF449} = {8EDF3277-61DE-40B2-A21C-853518901309}
+		{E95D725C-13D4-416B-80E5-A3AE45BB9A94} = {8EDF3277-61DE-40B2-A21C-853518901309}
+		{396E1A9D-D873-418E-9C77-BDBAA376D934} = {8EDF3277-61DE-40B2-A21C-853518901309}
+		{780D674F-7289-4A04-87CB-B5DB30A3218C} = {8EDF3277-61DE-40B2-A21C-853518901309}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60DF4694-ED9C-4E38-9DC1-0C109ECE2B77}
+	EndGlobalSection
+EndGlobal
